@@ -4,6 +4,7 @@ using static Azure.Core.HttpHeader;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
